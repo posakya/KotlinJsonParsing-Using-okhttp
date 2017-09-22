@@ -3,7 +3,7 @@ JsonData format
 
 [
 
-   [   {
+      {
         "Id": "24",
         "Menu_Type": "Appetizer",
         "Item_Name": "Nachos",
@@ -58,5 +58,4 @@ JsonData format
         "Ingredient": "lightly carbonated, filtered water, organic Lemon juice, cane sugar",
         "Chef": "Matthew Hunt"
     }
-]
 ]
